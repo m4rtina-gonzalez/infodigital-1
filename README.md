@@ -1,1 +1,109 @@
 # infodigital-1
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous" />
+        <title>RICHARD EDES HARRISON</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital@0;1&display=swap" rel="stylesheet">
+        <style>
+            :root{ --bs-font-sans-serif: 'DM Sans', sans-serif; }
+            :hover { transition: all ease 0.5s;  }
+            *{ font-weight: 400; }
+            header p { text-align: justify; }
+            header p.lead { line-height: 1.6; }
+            footer a{ color:var(--bs-gray); text-decoration: none; }
+            footer a:hover{ color:var(--bs-light); }
+        </style>
+    </head>
+    <body>
+
+        <header class="container">
+            <div class="row py-5">
+                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                    
+                    <h1 class="mb-3 mt-5 text-center">RICHARD EDES HARRISON (1901-1994)</h1>
+                    
+                    <h2 class="fs-6 mb-5 text-center text-uppercase">Por Martina Gonzalez Muñoz</h2>
+                    
+                    <p class="lead"> Richard Edes Harrison fue un cartógrafo e ilustrador científico estadounidense. Fue cartógrafo de la casa de Fortune y consultor de Life durante casi dos décadas.</p>
+                    
+                    <p>Desempeñó un papel clave en "desafiar las perspectivas cartográficas e intentar cambiar el pensamiento espacial en el nivel cotidiano durante el ascenso de Estados Unidos al estado de superpotencia". Susan Schulten considera que los mapas de Harrison son "fundamentales para la historia de la cartografía estadounidense".</p>
+
+                </div>
+            </div>
+        </header>
+
+        <main class="container-fluid bg-light">
+            <div class="row g-3">
+                <!--primera imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/aaaaaa/v.jpeg" class="img-fluid" alt="mapa" />
+                    <figcaption class="p-1 mb-3">LIGHTSHIP NUMBER 112 off Nantucket island</figcaption>
+                </figure>
+                <!--segunda imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/xa/49.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">US Navy, Ships, Bases, Men March 1938 with detail</figcaption>
+                </figure>
+                <!--tercera imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/ax/SH176.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">THE US AIR INDUSTRY MARCH 1941</figcaption>
+                </figure>
+                <!--cuarta imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/xa/47.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">THREE APPROACHES TO THE US September 1940</figcaption>
+                </figure>
+                <!--quinta imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/MAPS/gg/SH304.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">THE JOINT PROBLEM (US and UK) REH Dec 1940</figcaption>
+                </figure>
+                <!--sexta imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/aac/0d5.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">THE WORLD OF GENERAL MOTORS DECEMBER 1935</figcaption>
+                </figure>
+                <!--séptima imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/aac/0uu6.jpg" class="img-fluid" alt="mapa USRR"/>
+                    <figcaption class="p-1 mb-3">USSR July 1941</figcaption>
+                </figure>
+                <!--octava imagen-->
+                <figure class="col-12 col-sm-6">
+                     <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/aac/0nnt6.jpg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">ATLAS FOR THE US CITIZEN, September 1940</figcaption>
+                </figure>
+                <!--novena imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/AAQ/singles/190.jpeg" class="img-fluid" alt="mapa"/>
+                    <figcaption class="p-1 mb-3">THE RADIUM TRAIL 1934</figcaption>
+                </figure>
+                <!--décima imagen-->
+                <figure class="col-12 col-sm-6">
+                    <img loading="lazy" src="https://www.fulltable.com/vts/f/fortune/aac/0m75.jpg" class="img-fluid" alt="mapa de Japon"/>
+                    <figcaption class="p-1 mb-3">JAPAN'S PACIFIC FORTRESS September 1943</figcaption>
+                </figure>
+                <!--no hay más imágenes-->
+            </div>
+        </main>
+
+        <footer class="container-fluid bg-dark text-white-50">
+            <div class="row py-3">
+                <div class="col-12">
+                    <p class="d-flex justify-content-between small p-1 m-0">
+                        <!--reemplaza el # que sigue con la URL de tu cuenta en GitHub-->
+                        <a href="#">Martina Gonzalez</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/">Infografía Digital v2</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/tree/main/clase-01" class="d-none d-lg-inline">Lunes 15 de marzo, 2021</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+
+    </body>
+</html>
